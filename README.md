@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 
 
 
-
 🔧 Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,laravel,aws,react,java,linux,mysql,php,py,vscode)](https://skillicons.dev)
