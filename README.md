@@ -12,5 +12,8 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,laravel,aws,react,java,linux,mysql,php,py,vscode)](https://skillicons.dev)
 
+
 📚 I'm currently learning
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,anaconda,arduino,docker,go,opencv,raspberrypi)](https://skillicons.dev)
+
 
