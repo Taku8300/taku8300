@@ -1,7 +1,7 @@
-d### Hi there 👋
+### Hi there 👋
 
 
-**Taku8300/taku8300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Taku8300/taku8300** is my `README.md` 
 
 Here are some ideas to get you started:
 
