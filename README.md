@@ -5,6 +5,6 @@ d### Hi there 👋
 
 Here are some ideas to get you started:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taku8300
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taku8300&layout=compact&theme=onedark
 )](https://github.com/anuraghazra/github-readme-stats)
 
